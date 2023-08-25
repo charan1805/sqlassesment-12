@@ -1,0 +1,7 @@
+D:\day 12\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.exe.config
+D:\day 12\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.exe
+D:\day 12\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.pdb
+D:\day 12\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.AssemblyReference.cache
+D:\day 12\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.CoreCompileInputs.cache
+D:\day 12\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.exe
+D:\day 12\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.pdb
